@@ -1,0 +1,25 @@
+{
+  "name": "d3-spike",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+      "start": "http-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodeRequiem/d3-spike.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CodeRequiem/d3-spike/issues"
+  },
+  "homepage": "https://github.com/CodeRequiem/d3-spike#readme",
+  "dependencies": {
+    "d3": "^4.10.0"
+  },
+  "devDependencies": {
+    "http-server": "^0.10.0"
+  }
+}
